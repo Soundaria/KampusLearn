@@ -1,0 +1,913 @@
+2023-03-12 09:58:33,965  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 09:58:33,977  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 09:58:33,971  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 09:58:34,112  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 09:58:34,115  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 09:58:34,119  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 13:29:18,941  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 13:29:18,950  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 13:29:18,955  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 13:29:18,985  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 13:29:18,994  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 13:29:19,007  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 14:10:12,644  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 14:18:26,919  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 14:18:26,924  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 14:18:26,959  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 14:18:27,054  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 14:18:27,067  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 14:18:27,076  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 14:19:37,973  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidate Added successfully
+ 2023-03-12 14:19:38,092  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 14:19:38,107  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 14:19:38,134  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 14:19:38,143  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 14:19:38,147  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 14:19:38,189  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 14:22:41,306  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 14:22:41,329  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 14:22:41,336  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 14:22:41,345  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 14:22:41,352  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 14:22:41,391  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 14:31:10,243  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 14:31:10,261  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 14:31:10,276  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 14:31:10,286  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 14:31:10,298  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 14:31:10,302  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 14:32:15,944  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 14:32:16,002  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 14:32:16,009  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 14:32:16,030  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 14:32:16,035  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 14:32:16,040  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 14:32:51,641  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 14:32:51,657  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 14:32:51,675  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 14:32:51,692  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 14:32:51,726  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 14:32:51,732  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 14:33:35,314  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 14:33:35,319  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 14:33:35,324  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 14:33:35,349  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 14:33:35,354  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 14:33:35,358  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 14:34:09,581  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 14:34:09,603  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 14:34:09,612  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 14:34:09,640  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 14:34:09,650  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 14:34:09,656  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 16:10:28,328  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 16:10:28,350  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 16:10:28,380  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 16:10:28,406  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 16:10:28,413  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 16:10:28,418  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 16:10:55,154  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidate Added successfully
+ 2023-03-12 16:10:55,215  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 16:10:55,256  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 16:10:55,286  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 16:10:55,304  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 16:10:55,337  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 16:10:55,366  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 16:18:20,878  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 16:18:20,881  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 16:18:20,885  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 16:18:20,907  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 16:18:20,913  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 16:18:20,927  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 16:22:40,309  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 16:22:40,316  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 16:22:40,321  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 16:22:40,335  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 16:22:40,342  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 16:22:40,346  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 16:27:18,660  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 16:27:18,663  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 16:27:18,666  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 16:27:18,678  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 16:27:18,714  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 16:27:18,717  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 16:27:39,023  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 16:27:39,032  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 16:27:39,035  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 16:27:39,048  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 16:27:39,052  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 16:27:39,056  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 16:30:04,338  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 16:30:04,342  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 16:30:04,360  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 16:30:04,372  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 16:30:04,375  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 16:30:04,383  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 16:30:04,640  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 16:30:04,646  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 16:30:04,649  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 16:30:04,665  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 16:30:04,669  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 16:30:04,676  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 16:30:06,265  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 16:30:06,273  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 16:30:06,280  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 16:30:06,292  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 16:30:06,297  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 16:30:06,300  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 16:30:07,852  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 16:30:07,856  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 16:30:07,859  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 16:30:07,868  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 16:30:07,871  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 16:30:07,876  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:00:50,437  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:00:50,465  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:00:50,497  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:00:50,514  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:00:50,520  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:00:50,527  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:00:52,632  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:00:52,635  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:00:52,641  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:00:52,657  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:00:52,661  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:00:52,669  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:00:56,853  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:00:56,860  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:00:56,863  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:00:56,878  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:00:56,883  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:00:56,888  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:01:13,321  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:01:13,327  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:01:13,333  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:01:13,394  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:01:13,401  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:01:13,403  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:01:23,702  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:01:23,708  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:01:23,713  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:01:23,722  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:01:23,729  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:01:23,733  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:01:29,995  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:01:29,999  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:01:30,003  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:01:30,014  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:01:30,020  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:01:30,024  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:01:30,246  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:01:30,252  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:01:30,256  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:01:30,267  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:01:30,272  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:01:30,277  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:02:38,757  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:02:38,762  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:02:38,771  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:02:38,780  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:02:38,787  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:02:38,794  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:05:15,595  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidate Added successfully
+ 2023-03-12 17:05:15,662  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:05:15,665  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:05:15,692  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:05:15,703  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:05:15,740  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:05:15,745  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:06:36,666  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:06:36,717  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:06:36,730  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:06:36,892  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:06:36,922  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:06:36,928  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:07:34,928  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:07:34,947  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:07:34,963  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:07:34,987  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:07:34,989  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:07:34,999  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:08:24,949  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:08:24,995  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:08:25,000  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:08:25,015  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:08:25,021  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:08:25,050  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:08:37,379  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:08:37,383  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:08:37,387  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:08:37,398  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:08:37,404  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:08:37,421  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:09:03,045  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:09:03,049  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:09:03,052  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:09:03,062  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:09:03,066  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:09:03,070  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:15:22,017  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidate Added successfully
+ 2023-03-12 17:15:22,086  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:15:22,087  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:15:22,091  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:15:22,121  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:15:22,126  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:15:22,131  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:23:14,487  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:23:14,497  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:23:14,504  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:23:14,510  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:23:14,522  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:23:14,528  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:32:22,813  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:32:22,815  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:32:22,830  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:32:22,838  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:32:22,842  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:32:22,855  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:40:38,264  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:40:38,272  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:40:38,278  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:40:38,281  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:40:38,292  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:40:38,295  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:41:43,037  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: No candidate details found
+ 2023-03-12 17:41:52,368  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidate Added successfully
+ 2023-03-12 17:41:52,426  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:41:52,437  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:41:52,439  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:41:52,455  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:41:52,460  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:41:52,465  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:49:24,079  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:51:02,250  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:51:20,637  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:52:53,922  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:55:32,503  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:55:32,511  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:55:32,520  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:55:32,552  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:55:32,558  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:55:32,563  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:56:31,314  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:56:35,004  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:56:35,019  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:56:35,030  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:56:35,040  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 17:56:35,047  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 17:56:35,053  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:56:58,528  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:57:36,359  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:58:10,664  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:59:10,190  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 17:59:23,137  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 18:01:54,249  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 18:01:54,254  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 18:02:29,178  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 18:02:29,194  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 18:03:23,177  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 18:03:23,198  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 18:04:28,209  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 18:04:28,217  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 18:06:22,556  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 18:06:22,564  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 18:20:23,219  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2023-03-12 18:20:23,240  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Hosting environment: Development
+ 2023-03-12 18:20:23,244  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Content root path: C:\Users\SOUNDARIA\OneDrive\Documents\College\Hexaware\.Net React Training\CASE STUDY\KampusLearn\WebApi\CaseStudyKampusLearnAPI\CaseStudyKampusLearnAPI
+ 2023-03-12 18:23:35,269  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidate Added successfully
+ 2023-03-12 18:23:35,603  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 18:23:35,661  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 18:23:35,667  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 18:23:35,682  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 18:23:35,710  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 18:23:35,753  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 18:24:01,218  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 18:24:01,224  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 18:24:01,232  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 18:24:01,258  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 18:24:01,262  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 18:24:01,286  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 18:24:59,561  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 18:24:59,562  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 18:24:59,565  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 18:24:59,586  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 18:24:59,591  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 18:24:59,598  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 18:28:04,627  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 18:28:04,629  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 18:28:04,633  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 18:28:04,654  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 18:28:04,662  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 18:28:04,672  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 18:28:52,532  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 18:28:52,536  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 18:28:52,550  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 18:28:52,579  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 18:28:52,583  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 18:28:52,596  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 18:29:03,211  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Course registered already
+ 2023-03-12 18:29:07,495  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 18:29:07,500  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 18:29:07,506  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 18:29:07,530  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 18:29:07,532  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 18:29:07,545  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 18:29:19,550  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Course registered already
+ 2023-03-12 18:29:22,749  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Course registered already
+ 2023-03-12 18:30:40,998  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2023-03-12 18:30:41,021  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Hosting environment: Development
+ 2023-03-12 18:30:41,024  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Content root path: C:\Users\SOUNDARIA\OneDrive\Documents\College\Hexaware\.Net React Training\CASE STUDY\KampusLearn\WebApi\CaseStudyKampusLearnAPI\CaseStudyKampusLearnAPI
+ 2023-03-12 18:31:52,416  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidate Added successfully
+ 2023-03-12 18:31:52,677  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 18:31:52,683  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 18:31:52,709  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 18:31:52,729  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 18:31:52,760  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 18:31:52,811  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 18:31:59,498  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 18:31:59,502  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 18:31:59,506  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 18:31:59,531  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 18:31:59,535  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 18:31:59,544  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 18:32:13,244  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Course to the candidate is Added
+ 2023-03-12 18:32:19,314  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 18:32:19,346  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 18:32:19,350  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 18:32:19,364  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 18:32:19,379  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 18:32:19,387  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 18:32:24,296  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Course registered already
+ 2023-03-12 18:32:28,954  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 18:32:28,962  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 18:32:28,968  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 18:32:28,996  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 18:32:29,005  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 18:32:29,016  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 18:32:30,905  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 18:32:30,905  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 18:32:30,924  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 18:32:30,940  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 18:32:30,944  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 18:32:30,952  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 18:32:49,101  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Course to the candidate is Added
+ 2023-03-12 18:32:54,872  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 18:32:54,876  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 18:32:54,881  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 18:32:54,913  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 18:32:54,917  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 18:32:54,926  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 18:32:58,199  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Course registered already
+ 2023-03-12 18:33:04,775  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 18:33:04,820  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 18:33:04,849  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 18:33:04,867  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 18:33:04,886  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 18:33:04,893  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:39:07,446  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:39:07,456  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:39:07,498  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:39:07,506  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:39:07,517  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:39:07,561  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:40:08,840  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidate Added successfully
+ 2023-03-12 20:40:08,981  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:40:08,995  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:40:09,013  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:40:09,031  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:40:09,103  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:40:09,113  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:41:15,631  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:41:15,650  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:41:48,921  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:41:49,045  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:41:49,071  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:41:49,145  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:41:49,169  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:41:49,177  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:42:18,819  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidate Added successfully
+ 2023-03-12 20:42:19,088  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:42:19,105  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:42:19,124  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:42:19,137  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:42:19,150  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:42:19,158  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:42:32,822  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:42:32,874  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:42:32,901  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:42:32,983  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:42:33,000  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:42:33,017  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:43:26,719  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:43:26,724  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:43:40,174  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:44:00,000  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidate Added successfully
+ 2023-03-12 20:44:00,294  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:44:00,319  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:44:00,335  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:44:00,399  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:44:00,406  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:44:00,418  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:44:13,672  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Course to the candidate is Added
+ 2023-03-12 20:44:19,452  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:44:19,459  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:44:19,491  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:44:19,541  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:44:19,550  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:44:19,633  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:44:35,529  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:44:35,625  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:44:35,808  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:44:35,856  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:44:35,880  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:44:35,897  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:45:22,928  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:45:22,992  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:45:23,006  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:45:23,035  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:45:23,046  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:45:23,093  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:45:55,877  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:45:55,884  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:45:55,932  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:45:55,965  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:45:55,972  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:45:55,992  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:46:09,565  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidate Added successfully
+ 2023-03-12 20:46:09,687  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:46:09,697  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:46:09,709  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:46:09,729  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:46:09,753  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:46:09,811  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:46:27,161  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:46:27,169  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:46:27,192  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:46:27,212  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:46:27,234  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:46:27,248  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:48:37,175  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:48:44,278  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:48:44,306  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:49:14,869  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:49:14,879  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:49:14,908  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:49:14,919  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:49:14,946  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:49:14,972  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:49:17,967  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:49:17,978  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:49:17,982  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:49:18,005  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:49:18,024  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:49:18,042  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:49:45,260  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidate Added successfully
+ 2023-03-12 20:49:45,358  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:49:45,387  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:49:45,397  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:49:45,473  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:49:45,495  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:49:45,513  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:49:54,961  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:49:54,971  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:49:54,977  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:49:54,998  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:49:55,008  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:49:55,056  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:50:12,370  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Payment Added details
+ 2023-03-12 20:50:18,682  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:50:18,698  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:50:18,709  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:50:18,732  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:50:18,741  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:50:18,747  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:53:37,338  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:53:37,379  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:53:37,389  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:53:37,408  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:53:37,429  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:53:37,435  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:54:07,925  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:54:07,937  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:54:07,957  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:54:07,996  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:54:08,013  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:54:08,023  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:54:47,873  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:54:47,951  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:54:48,009  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 20:54:48,056  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 20:54:48,067  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 20:54:48,074  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 21:04:32,154  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidate Added successfully
+ 2023-03-12 21:04:32,236  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 21:04:32,243  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 21:04:32,312  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 21:04:32,317  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 21:04:32,335  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 21:04:32,357  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 21:08:43,137  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 21:08:43,142  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 21:08:43,194  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 21:08:43,349  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 21:08:43,354  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 21:08:43,481  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 21:10:30,541  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 21:10:30,558  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 21:10:30,602  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 21:10:30,669  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 21:10:30,681  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 21:10:30,688  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 21:10:40,207  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 21:10:40,217  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 21:10:40,241  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 21:10:40,266  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 21:10:40,293  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 21:10:40,324  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 21:10:50,080  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 21:10:50,087  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 21:10:50,098  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 21:10:50,132  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 21:10:50,184  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 21:10:50,204  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 21:11:15,971  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 21:11:15,982  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 21:13:22,311  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 21:13:22,316  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 21:16:23,854  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2023-03-12 21:16:23,892  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Hosting environment: Development
+ 2023-03-12 21:16:23,900  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Content root path: C:\Users\SOUNDARIA\OneDrive\Documents\College\Hexaware\.Net React Training\CASE STUDY\KampusLearn\WebApi\CaseStudyKampusLearnAPI\CaseStudyKampusLearnAPI
+ 2023-03-12 21:25:00,283 ERROR Microsoft.EntityFrameworkCore.Database.Command.? [?] - MESSAGE: Failed executing DbCommand (225ms) [Parameters=[@p0='?' (Size = 100) (DbType = AnsiString), @p1='?' (Size = 10) (DbType = AnsiString), @p2='?' (DbType = DateTime), @p3='?' (Size = 50) (DbType = AnsiString), @p4='?' (Size = 50) (DbType = AnsiString), @p5='?' (Size = 50) (DbType = AnsiString), @p6='?' (DbType = DateTime)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Candidate] ([address], [contact], [created_at], [email], [name], [password], [updated_at])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6);
+SELECT [candidate_id], [IsActive]
+FROM [Candidate]
+WHERE @@ROWCOUNT = 1 AND [candidate_id] = scope_identity();
+ 2023-03-12 21:25:00,515 ERROR Microsoft.EntityFrameworkCore.Update.? [?] - MESSAGE: An exception occurred in the database while saving changes for context type 'CaseStudyKampusLearnAPI.Models.KampusLearnContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'contact', table 'KampusLearn.dbo.Candidate'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:621cd01a-6705-4678-aa81-fcbdf604f0db
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+ Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'contact', table 'KampusLearn.dbo.Candidate'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:621cd01a-6705-4678-aa81-fcbdf604f0db
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2023-03-12 21:25:02,954  WARN CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Contact to Admin.. Server ErrorAn error occurred while updating the entries. See the inner exception for details.
+ 2023-03-12 21:27:21,000 ERROR Microsoft.EntityFrameworkCore.Database.Command.? [?] - MESSAGE: Failed executing DbCommand (19ms) [Parameters=[@p0='?' (Size = 100) (DbType = AnsiString), @p1='?' (Size = 10) (DbType = AnsiString), @p2='?' (DbType = DateTime), @p3='?' (Size = 50) (DbType = AnsiString), @p4='?' (Size = 50) (DbType = AnsiString), @p5='?' (Size = 50) (DbType = AnsiString), @p6='?' (DbType = DateTime)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Candidate] ([address], [contact], [created_at], [email], [name], [password], [updated_at])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6);
+SELECT [candidate_id], [IsActive]
+FROM [Candidate]
+WHERE @@ROWCOUNT = 1 AND [candidate_id] = scope_identity();
+ 2023-03-12 21:27:21,039 ERROR Microsoft.EntityFrameworkCore.Update.? [?] - MESSAGE: An exception occurred in the database while saving changes for context type 'CaseStudyKampusLearnAPI.Models.KampusLearnContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'contact', table 'KampusLearn.dbo.Candidate'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:621cd01a-6705-4678-aa81-fcbdf604f0db
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+ Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'contact', table 'KampusLearn.dbo.Candidate'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:621cd01a-6705-4678-aa81-fcbdf604f0db
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2023-03-12 21:27:21,471  WARN CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Contact to Admin.. Server ErrorAn error occurred while updating the entries. See the inner exception for details.
+ 2023-03-12 21:29:42,663 ERROR Microsoft.EntityFrameworkCore.Database.Command.? [?] - MESSAGE: Failed executing DbCommand (8ms) [Parameters=[@p0='?' (Size = 100) (DbType = AnsiString), @p1='?' (Size = 10) (DbType = AnsiString), @p2='?' (DbType = DateTime), @p3='?' (Size = 50) (DbType = AnsiString), @p4='?' (Size = 50) (DbType = AnsiString), @p5='?' (Size = 50) (DbType = AnsiString), @p6='?' (DbType = DateTime)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Candidate] ([address], [contact], [created_at], [email], [name], [password], [updated_at])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6);
+SELECT [candidate_id], [IsActive]
+FROM [Candidate]
+WHERE @@ROWCOUNT = 1 AND [candidate_id] = scope_identity();
+ 2023-03-12 21:29:42,686 ERROR Microsoft.EntityFrameworkCore.Update.? [?] - MESSAGE: An exception occurred in the database while saving changes for context type 'CaseStudyKampusLearnAPI.Models.KampusLearnContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'contact', table 'KampusLearn.dbo.Candidate'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:621cd01a-6705-4678-aa81-fcbdf604f0db
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+ Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'contact', table 'KampusLearn.dbo.Candidate'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:621cd01a-6705-4678-aa81-fcbdf604f0db
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2023-03-12 21:29:42,821  WARN CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Contact to Admin.. Server ErrorAn error occurred while updating the entries. See the inner exception for details.
+ 2023-03-12 21:31:51,060  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2023-03-12 21:31:51,089  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Hosting environment: Development
+ 2023-03-12 21:31:51,094  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Content root path: C:\Users\SOUNDARIA\OneDrive\Documents\College\Hexaware\.Net React Training\CASE STUDY\KampusLearn\WebApi\CaseStudyKampusLearnAPI\CaseStudyKampusLearnAPI
+ 2023-03-12 21:34:24,307 ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.? [?] - MESSAGE: An unhandled exception has occurred while executing the request.
+ Microsoft.AspNetCore.Connections.ConnectionResetException: The client has disconnected
+ ---> System.Runtime.InteropServices.COMException (0x800704CD): An operation was attempted on a nonexistent network connection. (0x800704CD)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.IIS.Core.IO.AsyncIOOperation.GetResult(Int16 token)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.ReadBody()
+   at System.IO.Pipelines.PipeCompletion.ThrowLatchedException()
+   at System.IO.Pipelines.Pipe.GetReadResult(ReadResult& result)
+   at System.IO.Pipelines.Pipe.ReadAsync(CancellationToken token)
+   at System.IO.Pipelines.Pipe.DefaultPipeReader.ReadAsync(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.ReadAsync(Memory`1 memory, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.IIS.Core.HttpRequestStream.ReadAsyncInternal(Memory`1 buffer, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.WebUtilities.FileBufferingReadStream.ReadAsync(Byte[] buffer, Int32 offset, Int32 count, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.WebUtilities.StreamHelperExtensions.DrainAsync(Stream stream, ArrayPool`1 bytePool, Nullable`1 limit, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonInputFormatter.ReadRequestBodyAsync(InputFormatterContext context, Encoding encoding)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinder.BindModelAsync(ModelBindingContext bindingContext)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder.BindModelAsync(ActionContext actionContext, IModelBinder modelBinder, IValueProvider valueProvider, ParameterDescriptor parameter, ModelMetadata metadata, Object value)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerBinderDelegateProvider.<>c__DisplayClass0_0.<<CreateBinderDelegate>g__Bind|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-03-12 21:35:29,077 ERROR Microsoft.EntityFrameworkCore.Database.Command.? [?] - MESSAGE: Failed executing DbCommand (197ms) [Parameters=[@p0='?' (Size = 100) (DbType = AnsiString), @p1='?' (Size = 10) (DbType = AnsiString), @p2='?' (DbType = DateTime), @p3='?' (Size = 50) (DbType = AnsiString), @p4='?' (Size = 50) (DbType = AnsiString), @p5='?' (Size = 50) (DbType = AnsiString), @p6='?' (DbType = DateTime)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Candidate] ([address], [contact], [created_at], [email], [name], [password], [updated_at])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6);
+SELECT [candidate_id], [IsActive]
+FROM [Candidate]
+WHERE @@ROWCOUNT = 1 AND [candidate_id] = scope_identity();
+ 2023-03-12 21:35:29,147 ERROR Microsoft.EntityFrameworkCore.Update.? [?] - MESSAGE: An exception occurred in the database while saving changes for context type 'CaseStudyKampusLearnAPI.Models.KampusLearnContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'contact', table 'KampusLearn.dbo.Candidate'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:df442b9c-d6fa-4441-84cf-bc5fdd0e76f3
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+ Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'contact', table 'KampusLearn.dbo.Candidate'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:df442b9c-d6fa-4441-84cf-bc5fdd0e76f3
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2023-03-12 21:35:29,407  WARN CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Contact to Admin.. Server ErrorAn error occurred while updating the entries. See the inner exception for details.
+ 2023-03-12 21:46:51,072  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2023-03-12 21:46:51,091  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Hosting environment: Development
+ 2023-03-12 21:46:51,096  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Content root path: C:\Users\SOUNDARIA\OneDrive\Documents\College\Hexaware\.Net React Training\CASE STUDY\KampusLearn\WebApi\CaseStudyKampusLearnAPI\CaseStudyKampusLearnAPI
+ 2023-03-12 21:54:03,630  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidate Added successfully
+ 2023-03-12 21:54:03,971  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 21:54:03,988  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 21:54:04,002  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 21:54:04,014  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 21:54:04,027  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 21:54:04,062  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 21:54:20,877  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 21:54:20,885  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 21:54:20,887  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 21:54:20,912  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 21:54:20,917  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 21:54:20,926  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 21:55:26,528  INFO CaseStudyKampusLearnAPI.Models.Trainer.? [?] - MESSAGE: Trainer added successfully and jwt token created
+ 2023-03-12 21:55:26,679  INFO CaseStudyKampusLearnAPI.Models.Trainer.? [?] - MESSAGE: Trainers details are listed with id : 1
+ 2023-03-12 21:55:26,687  INFO CaseStudyKampusLearnAPI.Models.Trainer.? [?] - MESSAGE: Trainers details are listed with id : 1
+ 2023-03-12 21:55:36,227  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Course added to trainers and the details are listed
+ 2023-03-12 21:55:36,271  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Course added to trainers and the details are listed
+ 2023-03-12 21:55:38,528  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 21:55:38,551  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 21:55:41,294  INFO CaseStudyKampusLearnAPI.Models.Trainer.? [?] - MESSAGE: Trainers details are listed with id : 1
+ 2023-03-12 21:55:41,304  INFO CaseStudyKampusLearnAPI.Models.Trainer.? [?] - MESSAGE: Trainers details are listed with id : 1
+ 2023-03-12 23:16:24,523  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Course added to trainers and the details are listed
+ 2023-03-12 23:16:24,667  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Course added to trainers and the details are listed
+ 2023-03-12 23:16:28,847  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 23:16:28,895  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 23:17:10,356  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Course added to trainers and the details are listed
+ 2023-03-12 23:17:10,474  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Course added to trainers and the details are listed
+ 2023-03-12 23:17:15,009  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 23:17:15,040  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 23:22:26,280  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Course added to trainers and the details are listed
+ 2023-03-12 23:22:26,387  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Course added to trainers and the details are listed
+ 2023-03-12 23:22:29,618  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 23:22:29,643  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 23:22:39,713  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 23:22:39,774  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 23:22:41,768  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Course added to trainers and the details are listed
+ 2023-03-12 23:22:41,840  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Course added to trainers and the details are listed
+ 2023-03-12 23:22:45,136  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 23:22:45,156  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 23:22:46,350  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Course added to trainers and the details are listed
+ 2023-03-12 23:22:46,414  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Course added to trainers and the details are listed
+ 2023-03-12 23:23:19,793 ERROR CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: No admin data found.. Try again
+ 2023-03-12 23:23:29,818  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Admin added successfully.. And JWt token is created
+ 2023-03-12 23:23:39,254  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Admin details are listed
+ 2023-03-12 23:23:39,301  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Admin details are listed
+ 2023-03-12 23:31:24,855  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 23:31:24,883  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 23:31:24,911  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 23:31:24,921  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 23:31:24,970  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 23:31:24,996  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 23:35:22,603  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 23:35:25,073  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 23:35:25,099  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 23:35:25,114  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 23:35:25,160  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 23:35:25,173  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 23:35:25,182  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 23:52:14,767  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 23:52:14,778  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 23:52:14,793  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 23:52:14,809  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-12 23:52:14,825  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 23:52:14,846  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 23:54:56,903  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Course added to trainers and the details are listed
+ 2023-03-12 23:54:56,964  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Course added to trainers and the details are listed
+ 2023-03-12 23:54:59,712  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 23:54:59,731  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-12 23:55:14,273  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-12 23:55:14,302  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-12 23:55:18,334  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-12 23:55:18,353  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 

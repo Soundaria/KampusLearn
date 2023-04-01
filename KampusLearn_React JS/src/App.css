@@ -1,0 +1,14 @@
+
+.Heading{
+  font-family: sans-serif;
+  font-style: italic;
+  font-weight: bolder;
+  font-size:xx-large;
+  text-align:left;
+  text-indent: 4%;
+  color:whitesmoke;
+  background-color:teal;
+  height: 40px;
+  padding-top: 9px;
+}
+
